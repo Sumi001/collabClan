@@ -1,4 +1,5 @@
-# Teamed
+# Sumit yadav 101
+
 An android application to connect like-minded people
 ## Installation
 Download and install the `app-debug.apk` file on your android phone and create your account
